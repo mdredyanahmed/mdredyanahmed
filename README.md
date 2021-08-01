@@ -2,7 +2,7 @@
 - 👀 I’m interested in Astrophysics precisely in Exoplanets,Black Hole and Gravitational waves.
 - 🌱 I’m currently working as a summer research intern in gravitational waves in The University of Western Australia.
 - 💞️ I’m looking forward to enhancing my research experience.
-- 📫 How to reach me: Email:redyanahmedsupto3515@gmail.com Linkedin: https://www.linkedin.com/in/md-redyan-ahmed-1b2343159/
+- 📫 Personal website: https://students.iiserkol.ac.in/ mra19ms014/
 
 <!---
 mdredyanahmed/mdredyanahmed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
