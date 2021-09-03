@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mdredyanahmed
 - 👀 I’m interested in Astrophysics precisely in Exoplanets,Black Hole and Gravitational waves.
-- 🌱 I’m currently working as a summer research intern in gravitational waves in The University of Western Australia.
+- 🌱 I’m  former summer research intern in gravitational waves in The University of Western Australia.
 - 💞️ I’m looking forward to enhancing my research experience.
 - 📫 Personal website: https://students.iiserkol.ac.in/~mra19ms014/
 
