@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mdredyanahmed
-- 👀 I’m interested in Astrophysics precisely in Exoplanets,Black Hole and Gravitational waves.
+- 👀 I’m interested in exoplanets detection, atmosphere characterization and modelling, climate, compositions, formation and habitability.
 - 🌱 I’m  former summer research intern in gravitational waves in The University of Western Australia.
 - 💞️ I’m looking forward to enhancing my research skills .
 - 📫 Personal website: https://students.iiserkol.ac.in/~mra19ms014/
