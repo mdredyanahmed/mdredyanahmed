@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Md. Redyan Ahmed
+# 👋 Hi, I'm Md Redyan Ahmed
 
 **Enthusiastic and self-motivated early-career  researcher** with a lifelong passion for astrophysics, precisely in exoplanet.
 Currently, I'm a **PhD student at the University of Sydney**, specializing in exoplanet detection with the **TOLIMAN mission**.
@@ -15,14 +15,16 @@ Currently, I'm a **PhD student at the University of Sydney**, specializing in ex
   - Binary stars
 - 🚀 **Current Work**: Exoplanet detection with the TOLIMAN space telescope mission.
 
-### ✈️ Beyond Science
-- 🌍 **Traveler**: I aim to visit a new country every year, embracing new experiences, cultures, and perspectives.
-- 📸 **Photography Enthusiast**: Capturing diverse landscapes and moments from my travels around the world.
 
 ### 💻 Projects and Contributions
 - 🔭 Exploring new algorithms and methods for exoplanet detection.
 - 📊 Data analysis tools, visualizations, and algorithm related to astrophysics.
 - 🌐 Open-source projects related to astrophysics and scientific computing.
+
+  ### ✈️ Beyond Science
+- 🌍 **Traveler**: I aim to visit a new country every year, embracing new experiences, cultures, and perspectives.
+- 📸 **Photography Enthusiast**: Capturing diverse landscapes and moments from my travels around the world.
+
 
 ### 📫 Let's Connect
 - 🌐 **Website**: [mdredyanahmed.com](http://www.mdredyanahmed.com)
