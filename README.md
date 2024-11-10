@@ -26,7 +26,7 @@ Currently, I'm a **PhD student at the University of Sydney**, specializing in ex
 
 ### 📫 Let's Connect
 - 🌐 **Website**: [mdredyanahmed.com](http://www.mdredyanahmed.com)
-- 🐦 **Twitter**: [@YourTwitterHandle](https://x.com/RedyanAhmed) 
+- 🐦 **Twitter**: [Md Redyan Ahmed](https://x.com/RedyanAhmed) 
 - 💼 **LinkedIn**: [Md. Redyan Ahmed](https://www.linkedin.com/in/ahmed-data-scientist/) 
 
 ### ⚡ Fun Fact
