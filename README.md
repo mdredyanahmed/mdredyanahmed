@@ -1,17 +1,18 @@
 # 👋 Hi, I'm Md. Redyan Ahmed
 
-**Enthusiastic and self-motivated early-career exoplanet researcher** with a lifelong passion for astrophysics.  
+**Enthusiastic and self-motivated early-career  researcher** with a lifelong passion for astrophysics, precisely in exoplanet.
 Currently, I'm a **PhD student at the University of Sydney**, specializing in exoplanet detection with the **TOLIMAN mission**.
 
 ### 🌌 About Me
 - 🌍 **Origin**: Dhaka, Bangladesh
 - 🎓 **Academic Journey**:  
   - 📚 Rajuk Uttara Model College, Dhaka  
-  - 🎓 Indian Institute of Science Education and Research (IISER)  
-  - 🧑‍🔬 Junior Researcher at the Institute of Space Science (ICE)-CSIC, Barcelona  
+  - 🎓 Indian Institute of Science Education and Research (IISER) Kolkata 
+  - 🧑‍🔬 Junior Researcher at the Institute of Space Science (ICE)-CSIC & IEEC, Barcelona 
 - 🔬 **Research Focus**:  
   - Exoplanet detection  
-  - Characterizing exoplanet atmospheres and compositions  
+  - Characterizing exoplanet atmospheres and compositions
+  - Binary stars
 - 🚀 **Current Work**: Exploring new methods for exoplanet detection with the TOLIMAN space telescope mission.
 
 ### ✈️ Beyond Science
@@ -20,13 +21,13 @@ Currently, I'm a **PhD student at the University of Sydney**, specializing in ex
 
 ### 💻 Projects and Contributions
 - 🔭 Exploring new algorithms and methods for exoplanet detection.
-- 📊 Data analysis tools and visualizations related to astrophysics.
+- 📊 Data analysis tools, visualizations, and algorithm related to astrophysics.
 - 🌐 Open-source projects related to astrophysics and scientific computing.
 
 ### 📫 Let's Connect
 - 🌐 **Website**: [mdredyanahmed.com](http://www.mdredyanahmed.com)
-- 🐦 **Twitter**: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle) *(replace with your actual handle)*
-- 💼 **LinkedIn**: [Md. Redyan Ahmed](https://www.linkedin.com/in/YourLinkedInProfile) *(replace with your actual LinkedIn profile)*
+- 🐦 **Twitter**: [@YourTwitterHandle](https://x.com/RedyanAhmed) 
+- 💼 **LinkedIn**: [Md. Redyan Ahmed](https://www.linkedin.com/in/ahmed-data-scientist/) 
 
 ### ⚡ Fun Fact
 I've aspired to be an astrophysicist since childhood, and my journey has been driven by an insatiable curiosity about the universe. From observing the night sky in Dhaka to working on advanced exoplanet detection projects, my passion for discovering the unknown keeps me motivated.
