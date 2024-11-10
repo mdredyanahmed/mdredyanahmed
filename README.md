@@ -13,7 +13,7 @@ Currently, I'm a **PhD student at the University of Sydney**, specializing in ex
   - Exoplanet detection  
   - Characterizing exoplanet atmospheres and compositions
   - Binary stars
-- 🚀 **Current Work**: Exploring new methods for exoplanet detection with the TOLIMAN space telescope mission.
+- 🚀 **Current Work**: Exoplanet detection with the TOLIMAN space telescope mission.
 
 ### ✈️ Beyond Science
 - 🌍 **Traveler**: I aim to visit a new country every year, embracing new experiences, cultures, and perspectives.
